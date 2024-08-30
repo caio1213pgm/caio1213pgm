@@ -14,4 +14,5 @@
 
 ## Sobre mim
 🎓 Estudante de Análise e desenvolvimento de sistemas </br>
+👨‍💻 Software devloper </br>
 🎹 Músico nas horas vagas
