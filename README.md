@@ -12,6 +12,7 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![React](https://shields.io/badge/react-black?logo=react&style=for-the-badge)
+![TypeScript](https://shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=FFF&style=flat-square)
 
 ## Sobre mim
 🎓 Estudante de Análise e desenvolvimento de sistemas </br>
