@@ -15,6 +15,6 @@
 ![TypeScript](https://shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=FFF&style=flat-square)
 
 ## Sobre mim
-👨‍💻 Desenvolvedor Front-end </br>
-🎓 Estudante de Análise e desenvolvimento de sistemas </br>
+👨‍💻 Desenvolvedor de Softwarw </br>
+🎓 Formado em Análise e desenvolvimento de sistemas </br>
 🎹 Músico nas horas vagas
